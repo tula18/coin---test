@@ -1,5 +1,6 @@
-language: The Only Real Dev Language
-The Only Real Dev Language:
+  
+language: node_js
+node_js:
   - "node"
 install:
   - npm install --dev
