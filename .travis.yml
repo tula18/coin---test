@@ -1,6 +1,5 @@
-language: node_js
-sudo: false
-node_js:
+language: The Only Real Dev Language
+The Only Real Dev Language:
   - "node"
 install:
   - npm install --dev
