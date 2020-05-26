@@ -1,6 +1,6 @@
 module.exports = {
     "root": true,
-    "exends": "standard",
+    "extends": "standard",
     "rules": {
         "semi": ["error", "always"],
         "indent": ["error", 2],
