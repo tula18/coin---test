@@ -1,3 +1,5 @@
+/* eslint quote-props: ["off", "always"] */
+/* eslint quotes: ["off", "double"] */
 module.exports = {
     "extends": "../.eslintrc.js",
     "globals": {
@@ -5,4 +7,4 @@ module.exports = {
         "it": "readonly",
         "beforeEach": "readonly"
     }
-}
+};
