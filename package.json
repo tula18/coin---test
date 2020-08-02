@@ -6,7 +6,7 @@
   "dependencies": {
     "crypto-js": "^4.0.0",
     "debug": "^4.1.1",
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.3",
     "webcrypto": "^0.1.1"
   },
   "devDependencies": {
